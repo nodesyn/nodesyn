@@ -1,4 +1,4 @@
-# `toastkernel`
+# `nodesyn`
 
 ```text
 ╭──────────────────────────────────────────────╮
@@ -20,16 +20,16 @@
 ```text
 $ whoami
 
-toastkernel
+nodesyn
 
-$ interests
+$ hobbies
 
-Linux ── macOS ── ThinkPads ── Coding
-Hardware ── Terminals ── Python ── C++
+Linux ── ThinkPads ── Coding
+Hardware ── Homelabs ── Python
 
 $ status
 
-[ ONLINE ]  boot.dev • github • arch • grok
+[ ONLINE ]  
 ```
 
-<sub>⚡ `toastkernel` • not there yet.</sub>
+<sub>⚡ `nodesyn` • not there yet.</sub>
