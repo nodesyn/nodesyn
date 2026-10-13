@@ -2,14 +2,13 @@
 
 ```text
 ╭──────────────────────────────────────────────╮
-│  TOASTKERNEL                                 │
+│  NODESYN                                 │
 │  ──────────────────────────────────────────  │
-│  Student • Linux • macOS • Coding • Hardware │
+│  Student • GNU/Linux • Darwin • Code     │
 ╰──────────────────────────────────────────────╯
 ```
 
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-000000?style=flat-square&logo=archlinux&logoColor=white)](#)
-[![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)](#)
 [![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C%2B%2B-000000?style=flat-square&logo=cplusplus&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)](#)
@@ -22,14 +21,14 @@ $ whoami
 
 nodesyn
 
-$ hobbies
+$ interests
 
-Linux ── ThinkPads ── Coding
-Hardware ── Homelabs ── Python
+Arch Linux ── ThinkCentre ── ThinkPads
+Self-hosting ── Homelabs ── Programming
 
 $ status
 
 [ ONLINE ]  
 ```
 
-<sub>⚡ `nodesyn` • not there yet.</sub>
+<sub>⚡ `nodesyn` </sub>
